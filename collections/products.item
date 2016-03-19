@@ -1,0 +1,22 @@
+{###############################################################################
+
+    SQUARESPACE CUSTOM COLLECTION TYPE - PRODUCTS
+
+    This file, in conjunction with its `.conf` file, allows us to create
+    this collection's "item" template. If you do not wish to use an item
+    template for this collection, simply delete it.
+
+###############################################################################}
+
+
+
+
+
+
+{###############################################################################
+
+<script>
+    console.log( "collection", {@|json-pretty} );
+</script>
+
+###############################################################################}
